@@ -45,7 +45,7 @@
         android:inputType="textPassword" />
 
     <Button
-        android:id="@+id/Login."
+        android:id="@+id/Login"
         style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -53,7 +53,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="126dp"
         android:onClick="loginbtn"
-        android:text="login"
+        android:text="login นะ"
         android:textAllCaps="false"
         android:textColor="@android:color/background_dark" />
 
